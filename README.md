@@ -1,5 +1,5 @@
-# A multi-view network for real-time emotion recognition in conversations
-This repository is the implement of our paper [A multi-view network for real-time emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S0950705121009801).
+# MVN
+This repository is the implementation for our paper *[A multi-view network for real-time emotion recognition in conversations](https://www.sciencedirect.com/science/article/pii/S0950705121009801)*.
 
 ## Model Architecture
 <!-- ![Image of MVN](fig/MVN.jpg) -->
