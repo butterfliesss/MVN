@@ -33,7 +33,7 @@ bash exec_meld.sh
 - Special thanks to the [AGHMN](https://github.com/wxjiao/AGHMN) for sharing the codes and datasets.
 	
 ## Citation
-If you find our work useful for your research, please kindly cite our paper as follows:
+If you find our work useful for your research, please kindly cite our paper. Thanks!
 ```
 @article{ma2022multi,
   title={A multi-view network for real-time emotion recognition in conversations},
